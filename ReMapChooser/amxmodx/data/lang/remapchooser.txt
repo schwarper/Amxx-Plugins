@@ -1,0 +1,120 @@
+[en]
+RMC_ERROR_FILE_NOT_EXIST = [ReMapChooser] '%s' file does not exist. Plugin has been stopped.
+
+RMC_PRINT_PREFIX = ^4[^3ReMapChooser^4] ^1
+
+RMC_PRINT_COUNTDOWN_END = Map voting is ^4active^1.
+RMC_PRINT_COUNTDOWN_GO = Map voting is starting in ^4%i ^3second(s).
+RMC_PRINT_NOT_VOTED = ^4%n ^1has not voted.
+RMC_PRINT_VOTED = ^4%n ^1chose ^3%s ^1map.
+RMC_PRINT_RESULT_NEXTMAP = Next map is ^3%s^1.
+RMC_PRINT_RTV_VOTESTARTED = Voting is already in progress.
+RMC_PRINT_RTV_MAPCHOSEN = The map has already been chosen.
+RMC_PRINT_RTV_VOTED = You have already voted.
+RMC_PRINT_RTV_MAX_PLAYERS = ^4A minimum of ^3%i people ^1are required to start the voting system.
+RMC_PRINT_RTV_PERCENT = Because 75% of people has voted, map voting is starting.
+RMC_PRINT_RTV_ENOUGH = We need ^3%i ^1votes to start map voting. Type ^4/rtv ^1to vote.
+RMC_PRINT_CLCMD_MAPS = Played Maps: ^3%s ^1-> ^3%s ^1-> ^3%s^1.
+RMC_PRINT_CLCMD_NEXTMAP_NOT = The next map has not been chosen yet.
+RMC_PRINT_CLCMD_NEXTMAP = Next map is ^3%s^1.
+RMC_PRINT_CLCMD_TIMELEFT = Time left ^4%i^3:^4%02d^1.
+RMC_PRINT_CLCMD_TIMELEFT_ZERO = No time limit.
+RMC_PRINT_CLCMD_THETIME = The time is ^4%s^1.
+RMC_PRINT_CLCMD_CURRENTMAP = Current map is ^3%s^1.
+
+RMC_HUD_TITLE_PRE_POST = Map Voting Time[%i second(s)]
+RMC_MENU_TITLE_MAP_WEATHER = \yMap Voting Time
+RMC_MENU_TITLE_MAP_WEATHER_COUNTDOWN = \dMap voting is ending in \r%i \dsecond(s)
+
+RMC_MENU_MAP_NAME = MAP
+RMC_MENU_WEATHER_NAME = Weather
+RMC_MENU_WEATHER_NORMAL = Normal
+RMC_MENU_WEATHER_RAINY = Rainy
+RMC_MENU_WEATHER_SNOWY = Snowy
+RMC_MENU_DONT_VOTE = Do Not Vote
+RMC_MENU_VOTE_COUNT = Number of Valid Votes: \r%i
+RMC_HUD_VOTE_COUNT = Number of Valid Votes: %i
+
+RMC_DHUD_ROUNDEND = Next map is %s^nThe map will change at the end of the round.
+RMC_DHUD_CHANGELEVEL = Map changing to %s
+
+
+[tr]
+RMC_ERROR_FILE_NOT_EXIST = [ReMapChooser] '%s' Dosya bulunamadı. Eklenti durduruldu.
+
+RMC_PRINT_PREFIX = ^4[^3ReMapChooser^4] ^1
+
+RMC_PRINT_COUNTDOWN_END = Harita oylaması ^4aktif^1.
+RMC_PRINT_COUNTDOWN_GO = Harita oylamasının başlamasına ^4%i ^3saniye.
+RMC_PRINT_NOT_VOTED = ^4%n ^1oylamaya katılmadı.
+RMC_PRINT_VOTED = ^4%n ^1isimli oyuncunun seçtiği harita ^3%s^1.
+RMC_PRINT_RESULT_NEXTMAP = Sonraki harita olarak ^3%s ^1seçilmiştir.
+RMC_PRINT_RTV_VOTESTARTED = Zaten oylama yapılıyor.
+RMC_PRINT_RTV_MAPCHOSEN = Harita zaten seçildi.
+RMC_PRINT_RTV_VOTED = Zaten oy vermişsin.
+RMC_PRINT_RTV_MAX_PLAYERS = Oylama sistemi için ^4maksimum ^3%i kişi ^1gerekli.
+RMC_PRINT_RTV_PERCENT = Oyuncuların %75'i oy verdiği için harita oylaması başlıyor.
+RMC_PRINT_RTV_ENOUGH = Oylama için ^3%i ^1oya ihtiyacımız var. ^4/rtv yazarak oy verebilirsiniz.
+RMC_PRINT_CLCMD_MAPS = Oynanılan haritalar: ^3%s ^1-> ^3%s ^1-> ^3%s^1.
+RMC_PRINT_CLCMD_NEXTMAP_NOT = Sonraki harita daha seçilmedi.
+RMC_PRINT_CLCMD_NEXTMAP = Sonraki harita ^3%s^1.
+RMC_PRINT_CLCMD_TIMELEFT = Kalan süre ^4%i^3:^4%02d^1.
+RMC_PRINT_CLCMD_TIMELEFT_ZERO = Süresiz zaman.
+RMC_PRINT_CLCMD_THETIME = Saat ^4%s^1.
+RMC_PRINT_CLCMD_CURRENTMAP = Şu anki harita ^3%s^1.
+
+RMC_HUD_TITLE_PRE_POST = Harita Oylama Zamanı [%i Saniye]
+RMC_MENU_TITLE_MAP_WEATHER = \yHarita Oylama Zamanı
+RMC_MENU_TITLE_MAP_WEATHER_COUNTDOWN = \dOylamanın bitmesine \r%i \dSaniye
+
+RMC_MENU_MAP_NAME = HARİTA
+RMC_MENU_WEATHER_NAME = HAVA DURUMU
+RMC_MENU_WEATHER_NORMAL = Normal
+RMC_MENU_WEATHER_RAINY = Yagmurlu
+RMC_MENU_WEATHER_SNOWY = Karlı
+RMC_MENU_DONT_VOTE = Oylamaya Katılma
+RMC_MENU_VOTE_COUNT = Geçerli Oy Sayısı: \r%i
+RMC_HUD_VOTE_COUNT = Geçerli Oy Sayısı: %i
+
+RMC_DHUD_ROUNDEND = Sonraki Harita: %s^nHarita el sonunda degisecek.
+RMC_DHUD_CHANGELEVEL = Harita %s olarak degistiriliyor
+
+[ru]
+RMC_ERROR_FILE_NOT_EXIST = [ReMapChooser] '%s' файл не существует. Плагин остановлен.
+
+RMC_PRINT_PREFIX = ^4[^3ReMapChooser^4] ^1
+
+RMC_PRINT_COUNTDOWN_END = Голосование за карту ^4активно^1.
+RMC_PRINT_COUNTDOWN_GO = Голосование карты начинается через ^4%i ^3секунды.
+RMC_PRINT_NOT_VOTED = ^4%n ^1не голосовал.
+RMC_PRINT_VOTED = ^4%n ^1выбрал ^3%s ^1карта.
+RMC_PRINT_RESULT_NEXTMAP = следующая карта - ^3%s^1.
+RMC_PRINT_RTV_VOTESTARTED = Голосование уже идет.
+RMC_PRINT_RTV_MAPCHOSEN = Карта уже выбрана.
+RMC_PRINT_RTV_VOTED = Вы уже проголосовали.
+RMC_PRINT_RTV_MAX_PLAYERS = Для запуска системы голосования требуется ^4минимум ^3%i человек.
+RMC_PRINT_RTV_PERCENT = Голосование карты начинается, потому что проголосовало 75% людей.
+RMC_PRINT_RTV_ENOUGH = Для досрочного голосования необходимо ещё ^3%i голоса Введите ^4/rtv для досрочного голосования
+RMC_PRINT_CLCMD_MAPS = сыгранные карты: ^3%s ^1-> ^3%s ^1-> ^3%s^1.
+RMC_PRINT_CLCMD_NEXTMAP_NOT = Следующая карта еще не выбрана.
+RMC_PRINT_CLCMD_NEXTMAP = Следующая карта - ^3%s^1.
+RMC_PRINT_CLCMD_TIMELEFT = Оставшееся время ^4%i^3:^4%02d^1.
+RMC_PRINT_CLCMD_TIMELEFT_ZERO = Без ограничения по времени.
+RMC_PRINT_CLCMD_THETIME = Время ^4%s^1.
+RMC_PRINT_CLCMD_CURRENTMAP = Текущая карта - ^3%s^1.
+
+RMC_HUD_TITLE_PRE_POST = Карта Время голосования [%i секунды]
+RMC_MENU_TITLE_MAP_WEATHER = \yКарта Время голосования
+RMC_MENU_TITLE_MAP_WEATHER_COUNTDOWN = \dГолосование карты заканчивается через \r%i \dсекунды. 
+
+RMC_MENU_MAP_NAME = КАРТА
+RMC_MENU_WEATHER_NAME = ПОГОДА
+RMC_MENU_WEATHER_NORMAL = Нормальный
+RMC_MENU_WEATHER_RAINY = Дождливый
+RMC_MENU_WEATHER_SNOWY = Снежный
+RMC_MENU_DONT_VOTE = Не голосовать
+RMC_MENU_VOTE_COUNT = Количество действительных голосов: \r%i
+RMC_HUD_VOTE_COUNT = Количество действительных голосов: %i
+
+RMC_DHUD_ROUNDEND = Следующая карта - %s^nКарта изменится в конце раунда.
+RMC_DHUD_CHANGELEVEL = Карта меняется на %s

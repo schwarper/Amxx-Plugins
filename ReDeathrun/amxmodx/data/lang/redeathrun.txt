@@ -1,0 +1,16 @@
+[en]
+REDEATHRUN_LEFT_GAME = ^3[ReDeathrun] ^4%n ^1left the game. New terrorist is ^3%n^1.
+REDEATHRUN_NEXT_TERRORIST = ^3[ReDeathrun] ^4%n ^1is now the terrorist.
+
+[tr]
+REDEATHRUN_LEFT_GAME = ^3[ReDeathrun] ^4%n ^1oyundan ayrildi. Yeni terrorist: ^3%n
+REDEATHRUN_NEXT_TERRORIST = ^3[ReDeathrun] Yeni terrorist: ^3%n
+
+[ru]
+REDEATHRUN_LEFT_GAME = ^3[ReDeathrun] ^4%n ^1покинул игру. Новый террорист - ^3%n
+REDEATHRUN_NEXT_TERRORIST = ^3[ReDeathrun] ^4%n ^1теперь террорист.
+
+[de]
+REDEATHRUN_LEFT_GAME = ^3[ReDeathrun] ^4%n ^1hat das Spiel verlassen. Neuer Terrorist ist ^3%n^1.
+REDEATHRUN_NEXT_TERRORIST = ^3[ReDeathrun] ^4%n ^1ist jetzt der Terrorist.
+
